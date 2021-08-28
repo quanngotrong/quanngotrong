@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=quanngotrong&show_icons=true&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top_?username=quanngotrong&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanngotrong)](https://github.com/quanngotrong/github-readme-stats)
+
 
 
 
