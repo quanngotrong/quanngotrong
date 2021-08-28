@@ -1,5 +1,5 @@
 ### Hi there! I'm Quan! 👋
-I'm a 3rd year computer science student at HaNoi University of Science and Technology, Viet Nam
+I'm a Computer Science student at HaNoi University of Science and Technology, Viet Nam
 
 <!--
 **quanngotrong/quanngotrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Interests: music, film, delicious food, reading book
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngotrongquan)](https://github.com/ngotrongquan/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngotrongquan&show_icons=true&hide_border=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ngotrongquan&show_icons=true&hide_border=true" />
