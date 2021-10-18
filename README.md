@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🌱 I’m currently learning Computer Vision
+
 - 📫 How to reach me: ngotrongquan116@gmail.com
 - ⚡ Interests: music, film, delicious food, reading book
 
