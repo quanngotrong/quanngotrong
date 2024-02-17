@@ -1,5 +1,5 @@
 ### Hi there! I'm Quan! 👋
-I'm a Computer Science student at HaNoi University of Science and Technology, Viet Nam
+I'm a software engineer
 
 <!--
 **quanngotrong/quanngotrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: ngotrongquan116@gmail.com
-- ⚡ Interests: music, film, delicious food, reading book
+- ⚡ Interests: music, film, food, badminton
 
 ---
 
